@@ -1,0 +1,2 @@
+// Root build file - intentionally minimal. The Android Gradle Plugin
+// version is declared in app/build.gradle via the plugins block.
